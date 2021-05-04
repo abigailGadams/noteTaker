@@ -1,6 +1,9 @@
 # Note Taker Application
 https://abigail-adams-note-taker.herokuapp.com/
 
+<img width="1174" alt="Screen Shot 2021-05-03 at 7 56 43 PM" src="https://user-images.githubusercontent.com/74374839/116956418-16805a80-ac4a-11eb-9387-c86862447b49.png">
+
+
 # User Story
 
     ## AS A small business owner
